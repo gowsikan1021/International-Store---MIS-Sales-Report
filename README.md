@@ -11,12 +11,12 @@ Analyzed the 2024 sales dataset of International Stores using Microsoft Excel to
 6. What is the monthly sales trend?
 7. Who are the top 5 customers based on the number of products purchased?
 <br>
-## Tools Used
+## Tools Used :
 
 - Excel
 - PivotTables
 - Charts
 <br>
-## Dashbord:
+## Dashbord :
 
 ![image alt](https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/11797a6ec65f140cbfe76383c2b1491cad80626f/Screenshot%202026-07-30%20162630.png)
