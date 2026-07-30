@@ -23,7 +23,6 @@ Dashboard :
 
 
 ![image alt](https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/11797a6ec65f140cbfe76383c2b1491cad80626f/Screenshot%202026-07-30%20162630.png)
-
 <br>
 <p align="center">
   FirstPage
