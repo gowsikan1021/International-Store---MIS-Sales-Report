@@ -17,7 +17,7 @@ Tools Used :
 - PivotTables
 - Charts
 <br>
-Dashbord :
+Dashboard :
 <br>
 <br>
 
