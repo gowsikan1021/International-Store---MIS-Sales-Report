@@ -17,7 +17,6 @@ Tools Used :
 - PivotTables
 - Charts
 <br>
-<br>
 
 Project link : <a href="https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/ebfadb2e5997383d9ddacdd671cadfcc80bf3277/Sales%20Data%20(International%20stores).xlsx">
     International Store - MIS Sales Report
