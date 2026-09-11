@@ -18,7 +18,7 @@ Tools Used :
 - Charts
 <br>
 
-Project link : <a href="https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/38970db12d1ad274c33b3e824f5583390988f023/Sales%20Data%20(International%20stores).xlsx>
+Project link : <a href="https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/38970db12d1ad274c33b3e824f5583390988f023/Sales%20Data%20(International%20stores).xlsx">
     International Store - MIS Sales Report
   </a>
 
