@@ -28,8 +28,8 @@ Dashboard :
 <br>
 
 
-![image alt]()
+![image alt](https://github.com/gowsikan1021/International-Store---MIS-Sales-Report/blob/e8cf5913ac89f9ad16e7367c7e45dd8e41ee34c3/Screenshot%202026-09-11%20182050.png)
 <br>
 <p align="center">
-  FirstPage
+  ViewPage
 </p>
