@@ -1,7 +1,7 @@
 # International Stores - MIS Sales Report
 ## Project Description :
 
-Analyzed the 2024 sales dataset of International Stores using Microsoft Excel to identify sales trends and support business decision-making. Developed an MIS Sales Dashboard featuring key insights such as total sales, top products, top customers, highest revenue region, and monthly sales trends.
+Analyzed the 2014-2017 sales dataset of International Stores using Microsoft Excel to identify sales trends and support business decision-making. Developed an MIS Sales Dashboard featuring key insights such as total sales, top products, top customers, highest revenue region, and monthly sales trends.
 <br>
 1. What is the total sales for each year?
 2. What is the total number of products sold?
